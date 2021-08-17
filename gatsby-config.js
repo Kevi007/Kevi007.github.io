@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Kevin James',
     description:
       'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'http://kevinjames007.me', // No trailing slash allowed!
